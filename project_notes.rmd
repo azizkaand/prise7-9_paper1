@@ -1,0 +1,12 @@
+# Purpose of this file
+The purpose of this file is to keep notes and keep track of any decisions that
+is made regarding the project. Additionally, a to-do list will be kept here.
+
+## To-do
+- Create a github repository for the project                                  []
+- Create an OSF repository for the project                                    []
+- Link the github repository to the OSF repository                            []
+- Pre-register the study                                                      []
+
+
+## Decisions
