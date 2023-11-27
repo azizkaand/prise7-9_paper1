@@ -10,3 +10,11 @@ is made regarding the project. Additionally, a to-do list will be kept here.
 
 
 ## Decisions
+
+
+## Other
+### 2023-11-27
+- installation of pre-reg template using the following code:
+```{r}
+install.packages("prereg")
+```
