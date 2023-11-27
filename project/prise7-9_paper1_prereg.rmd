@@ -38,7 +38,7 @@ Enter your response here.
 
 Example: If taste affects preference, then mean preference indices will be higher with higher concentrations of sugar. -->
 
-Enter your response here.
+H1: Higher levels of peer-victimization (sexual harassment) at grade 4 will predict higher levels of dating-violence victimization at grade 8.
 
 
 # Design Plan
