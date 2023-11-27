@@ -14,7 +14,8 @@ is made regarding the project. Additionally, a to-do list will be kept here.
 
 ## Other
 ### 2023-11-27
-- installation of pre-reg template using the following code:
+- Got the prereg template following the instructions from:
 ```{r}
-install.packages("prereg")
+library(prereg)
 ```
+
