@@ -19,4 +19,7 @@ is made regarding the project. Additionally, a to-do list will be kept here.
 library(prereg)
 ```
 - Started with the pre-registration template for the study.
+- Started investigating the literature for possible models appropriate for analys
+is.
+
 
