@@ -3,10 +3,10 @@ The purpose of this file is to keep notes and keep track of any decisions that
 is made regarding the project. Additionally, a to-do list will be kept here.
 
 ## To-do
-- Create a github repository for the project                                  []
-- Create an OSF repository for the project                                    []
-- Link the github repository to the OSF repository                            []
-- Pre-register the study                                                      []
+- Create a github repository for the project                                [X]
+- Create an OSF repository for the project                                  [X]
+- Link the github repository to the OSF repository                          [X]
+- Pre-register the study                                                    [/]
 
 
 ## Decisions
@@ -18,4 +18,5 @@ is made regarding the project. Additionally, a to-do list will be kept here.
 ```{r}
 library(prereg)
 ```
+- Started with the pre-registration template for the study.
 
