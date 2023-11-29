@@ -27,7 +27,10 @@ is.
 ```{r}
 install.packages("codebook")
 ```
+  - However, I think using sjPlot::view_df() function will work just as well.
 
 - Don't forget to use set.seed() when generating data in either simulations or 
 multiple imputations
 
+- Publish figures before publishing (figshare.com) because otherwise the journals
+will own your figures!
