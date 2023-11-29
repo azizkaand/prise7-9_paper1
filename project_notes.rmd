@@ -28,3 +28,6 @@ is.
 install.packages("codebook")
 ```
 
+- Don't forget to use set.seed() when generating data in either simulations or 
+multiple imputations
+
