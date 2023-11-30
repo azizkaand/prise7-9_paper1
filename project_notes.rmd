@@ -7,6 +7,7 @@ is made regarding the project. Additionally, a to-do list will be kept here.
 - Create an OSF repository for the project                                  [X]
 - Link the github repository to the OSF repository                          [X]
 - Pre-register the study                                                    [/]
+- Add a codebook to OSF                                                     [ ]
 
 
 ## Decisions
