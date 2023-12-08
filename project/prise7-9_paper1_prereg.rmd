@@ -1,6 +1,6 @@
 ---
-title           : "The longitudinal association between early peer-victimisation and later dating violence"
-shorttitle      : "A preregistration of secondary data analysis"
+title           : "The Longitudinal Association Between Early Peer Sexual Harassment and Later Dating Violence"
+shorttitle      : "A preregistration of secondary data analysis on PRISE Data"
 date            : "`r Sys.setlocale('LC_TIME', 'C'); format(Sys.time(), '%d\\\\. %B %Y')`"
 
 author: 
@@ -19,10 +19,7 @@ bibliography: prereg_references.bib
 # Study Information
 
 ## Title
-
- Provide the working title of your study. It may be the same title that you submit for publication of your final manuscript, but it is not a requirement. The title should be a specific and informative description of a project. Vague titles such as 'Fruit fly preregistration plan' are not appropriate.
-
-Example: Effect of sugar on brownie tastiness. -->
+The Longitudinal Association Between Early Peer Sexual Harassment and Later Dating Violence
 
 
 ## Description
