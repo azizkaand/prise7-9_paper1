@@ -322,17 +322,27 @@ t4_marsha_vic_3 <- lfast(
   items = 1
 )
 
-
+gender <- lfast(
+  n = 800,
+  mean = 1.536,
+  sd = .30,
+  lowerbound = 1,
+  upperbound = 2,
+  items = 1
+)
 
 
 df_simulated <- data.frame(
+  # GENDER
+  gender,
+  # PSH_VIC
   t5_psh_vic_1, t5_psh_vic_2, t5_psh_vic_3, t5_psh_vic_4, t5_psh_vic_5, t5_psh_vic_6,
   t4_psh_vic_1, t4_psh_vic_2, t4_psh_vic_3, t4_psh_vic_4, t4_psh_vic_5, t4_psh_vic_6,
   t3_psh_vic_1, t3_psh_vic_2, t3_psh_vic_3, t3_psh_vic_4, t3_psh_vic_5, t3_psh_vic_6,
   t2_psh_vic_1, t2_psh_vic_2, t2_psh_vic_3, t2_psh_vic_4, t2_psh_vic_5, t2_psh_vic_6,
   t1_psh_vic_1, t1_psh_vic_2, t1_psh_vic_3, t1_psh_vic_4, t1_psh_vic_5, t1_psh_vic_6,
   #TEEN DATING VIOLENCE
-  t4_marsha_vic_1, t4_marsha_vic_2, t4_marsha_vic_3
+  t4_marsha_vic_1, t4_marsha_vic_2, t4_marsha_vic_3,
   )
 
 
