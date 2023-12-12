@@ -294,6 +294,34 @@ t1_psh_vic_6 <- lfast(
 )
 
 
+################### SIMULATE TEEN DATING VIOLENCE ###########################
+t4_marsha_vic_1 <- lfast(
+  n = 800,
+  mean = 1.10,
+  sd = 0.41,
+  lowerbound = 1,
+  upperbound = 4,
+  items = 1
+)
+
+t4_marsha_vic_2 <- lfast(
+  n = 800,
+  mean = 1.12,
+  sd = 0.40,
+  lowerbound = 1,
+  upperbound = 4,
+  items = 1
+)
+
+t4_marsha_vic_3 <- lfast(
+  n = 800,
+  mean = 1.14,
+  sd = 0.47,
+  lowerbound = 1,
+  upperbound = 4,
+  items = 1
+)
+
 
 
 
@@ -302,7 +330,10 @@ df_simulated <- data.frame(
   t4_psh_vic_1, t4_psh_vic_2, t4_psh_vic_3, t4_psh_vic_4, t4_psh_vic_5, t4_psh_vic_6,
   t3_psh_vic_1, t3_psh_vic_2, t3_psh_vic_3, t3_psh_vic_4, t3_psh_vic_5, t3_psh_vic_6,
   t2_psh_vic_1, t2_psh_vic_2, t2_psh_vic_3, t2_psh_vic_4, t2_psh_vic_5, t2_psh_vic_6,
-  t1_psh_vic_1, t1_psh_vic_2, t1_psh_vic_3, t1_psh_vic_4, t1_psh_vic_5, t1_psh_vic_6)
+  t1_psh_vic_1, t1_psh_vic_2, t1_psh_vic_3, t1_psh_vic_4, t1_psh_vic_5, t1_psh_vic_6,
+  #TEEN DATING VIOLENCE
+  t4_marsha_vic_1, t4_marsha_vic_2, t4_marsha_vic_3
+  )
 
 
 
